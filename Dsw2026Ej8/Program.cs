@@ -3,6 +3,7 @@ using Dsw2026Ej8.ProblemaN2;
 using Dsw2026Ej8.ProblemaN3;
 using Dsw2026Ej8.ProblemaN4;
 using Dsw2026Ej8.ProblemaN5;
+using Dsw2026Ej8.ProblemaN6;
 
 
 namespace Dsw2026Ej8
@@ -39,6 +40,13 @@ namespace Dsw2026Ej8
             Problema5 problema5 = new Problema5();
             Console.WriteLine(problema5.ObtenerImporteFinal(s1));
             Console.WriteLine(problema5.ObtenerImporteFinal(s2));*/
+
+            //PROBLEMA 6
+            /*Problema6 problema6 = new Problema6();
+            string test1 = "  abc 123 x ";
+            string test2 = null;
+            Console.WriteLine(problema6.NormalizarCodigoProducto(test1));
+            Console.WriteLine(problema6.NormalizarCodigoProducto(test2));*/
 
         }
     }
