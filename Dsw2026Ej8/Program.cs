@@ -1,6 +1,7 @@
 ﻿using Dsw2026Ej8.ProblemaN1;
 using Dsw2026Ej8.ProblemaN2;
 using Dsw2026Ej8.ProblemaN3;
+using Dsw2026Ej8.ProblemaN4;
 
 
 namespace Dsw2026Ej8
@@ -21,6 +22,15 @@ namespace Dsw2026Ej8
             /*Product product = new Product("Original");
             Problema3 problema3 = new Problema3();
             Console.WriteLine(problema3.CompararCopias(10, product));*/
+
+            //PROBLEMA 4
+            /*Problema4 problema4 = new Problema4();
+            Console.WriteLine("Test 1 : " + problema4.CalcularPromedio(null, null, null));
+            Console.WriteLine("Test 2 : " + problema4.CalcularPromedio(8, null, null));
+            Console.WriteLine("Test 3 : " + problema4.CalcularPromedio(8, 6, null));
+            Console.WriteLine("Test 4 : " + problema4.CalcularPromedio(11, 5, 7));
+            Console.WriteLine("Test 5 : " + problema4.CalcularPromedio(-1, 5, 7));
+            Console.WriteLine("Test 6 : " + problema4.CalcularPromedio(9, 10, 8));*/
 
         }
     }
