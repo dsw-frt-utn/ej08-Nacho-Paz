@@ -1,5 +1,6 @@
 ﻿using Dsw2026Ej8.ProblemaN1;
 using Dsw2026Ej8.ProblemaN2;
+using Dsw2026Ej8.ProblemaN3;
 
 
 namespace Dsw2026Ej8
@@ -15,6 +16,11 @@ namespace Dsw2026Ej8
             //PROBLEMA 2
             /*Problema2 problema2 = new Problema2();
             Console.WriteLine(problema2.CrearResumenVenta(1234, "Mouse", 3, 60000));*/
+
+            //PROBLEMA 3
+            /*Product product = new Product("Original");
+            Problema3 problema3 = new Problema3();
+            Console.WriteLine(problema3.CompararCopias(10, product));*/
 
         }
     }
